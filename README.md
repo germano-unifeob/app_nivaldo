@@ -1,16 +1,34 @@
-# app_nivardo
+# App Nivaldo
 
-A new Flutter project.
+## 📦 Primeira Entrega: Tela de Cadastro
 
-## Getting Started
+Implementação da tela de cadastro com os seguintes campos obrigatórios:
 
-This project is a starting point for a Flutter application.
+- Nome
+- E-mail
+- CPF
+- Senha
+- Confirmar Senha
 
-A few resources to get you started if this is your first Flutter project:
+A tela possui dois botões:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Cadastrar**: redireciona para a tela Home
+- **Cancelar**: retorna para a tela de Login
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 🖼️ Tela de Cadastro
+
+![Tela de Cadastro](assets/images/screenshot_cadastro.png)
+
+---
+
+### 🚀 Tecnologias Utilizadas
+
+- Flutter
+- Dart
+
+---
+
+### 📁 Estrutura do Projeto
+
