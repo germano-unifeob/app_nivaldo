@@ -19,7 +19,7 @@ A tela possui dois botões:
 
 ### 🖼️ Tela de Cadastro
 
-![Tela de Cadastro](assets/images/screenshot_cadastro.png)
+![Tela de Cadastro](preview_telacadastro.png)
 
 ---
 
